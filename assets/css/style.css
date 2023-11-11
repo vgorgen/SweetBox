@@ -252,7 +252,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffb03b;
+  color: #E6BC7C;
 }
 
 .navbar .dropdown:hover>ul {
@@ -292,6 +292,7 @@ h6 {
   font-size: 28px;
   cursor: pointer;
   display: none;
+  float: right;
   line-height: 0;
   transition: 0.5s;
 }
@@ -348,7 +349,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ffb03b;
+  color: #E6BC7C;
 }
 
 .navbar-mobile .getstarted,
@@ -383,7 +384,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #ffb03b;
+  color: #E6BC7C;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -521,7 +522,7 @@ h6 {
   margin: 0 10px;
   animation-delay: 0.8s;
   color: #fff;
-  border: 2px solid #ffb03b;
+  border: 2px solid #e4ae5d;
 }
 
 #hero .btn-menu:hover,
